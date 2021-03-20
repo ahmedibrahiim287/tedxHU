@@ -5,8 +5,9 @@ import React, { Component } from "react";
 export class About extends Component {
   render() {
     return (
-        <div>
+        <div calssName="container">
 
+          <button calssName="button"> about  ???? </button>
         </div>
     );
 }
