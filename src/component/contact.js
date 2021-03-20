@@ -5,10 +5,9 @@ export class contact extends Component {
   render() {
     return (
         <div>
-<buttton >fgrg</buttton>
-<buttton >fgrg</buttton>
+
         </div>
-    );rnnenene
+    );
 }
 }
 
